@@ -5,7 +5,7 @@ import os
 
 
 path = 'C:/Users/Nicolas Jackson/Python Projects/PDF Bulk Processing/test/'
-password_pdf = 'Transmission28369'
+password_pdf = 'password'
 watermark = 'watermark.pdf'
 
 
